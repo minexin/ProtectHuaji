@@ -22,4 +22,4 @@
 
 ### （3）后端支持：本游戏中包含上传游戏积分功能，故需要数据库支持，本游戏选择使用mysql数据库，通过服务器端nodejs获取mysql连接，游戏中通过c#脚本webservice连接获取传来的json数据，以此读取、操作数据库，实现了积分上传功能以及排行榜的显示功能，为游戏增添了趣味性。
 
-服务端代码位于`DH database`文件夹中，MySQL数据库建表SQL语句位于`huaji.sql`文件中
+服务端代码位于`DH database`文件夹中，MySQL数据库建表SQL语句位于`huaji.sql`文件中，项目文档位于`Document`文件夹中
