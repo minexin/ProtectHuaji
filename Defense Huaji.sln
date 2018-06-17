@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defense Huaji", "Assembly-CSharp.csproj", "{AD2AF82D-2C05-B60D-2FB7-F542319578D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defense Huaji", "Assembly-CSharp-firstpass.csproj", "{479E994D-ABB0-AA83-9AF1-8D390AD4542C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2AF82D-2C05-B60D-2FB7-F542319578D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2AF82D-2C05-B60D-2FB7-F542319578D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2AF82D-2C05-B60D-2FB7-F542319578D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2AF82D-2C05-B60D-2FB7-F542319578D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479E994D-ABB0-AA83-9AF1-8D390AD4542C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479E994D-ABB0-AA83-9AF1-8D390AD4542C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479E994D-ABB0-AA83-9AF1-8D390AD4542C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479E994D-ABB0-AA83-9AF1-8D390AD4542C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
